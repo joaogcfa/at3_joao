@@ -1,0 +1,10 @@
+Exercicio 1:
+    Dentro da pasta "src" tem um arquivo chamado "ex1.py", esse e meu arquivo do ex 1
+Exercicio 3:
+    Dentro da pasta "src" dentro da pasta "mobilenet_detection", esta o arquivo "object_detection_webcam.py" que e minha entrega
+Exercicio 4: 
+    Dentro da pasta "src" esta o arquivo jupyter "atividade_3_joao_guilherme", ex 4 esta la
+Exercicio 5:
+    Dentro da pasta "src", dentro da pasta "Ros" esta o arquivo "roda.py" que e minha entrega
+Exercicio 6:
+    Dentro da pasta "src", dentro da pasta "Ros" esta o arquivo "le_scan.py" que e minha entrega
